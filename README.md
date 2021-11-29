@@ -40,6 +40,21 @@ Para ambiente de produção, execute o comando de build.
 npm run build
 ```
 
+# Backend
+
+Para inicializar o backend, execute os seguintes comandos a partir da raiz desse repositório.
+
+```sh
+cd backend
+npm i
+npm run server
+```
+
+Ele responderá às requisições em na porta 5000 caso não esteja em uso.
+
+```sh
+127.0.0.1:5000
+```
 ### License
 
 MIT
