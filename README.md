@@ -13,6 +13,7 @@ Foi utilizado diversar tecnologias no projeto, abaixo estão as principais:
 - [JavaScript Cookie] - para manutenção do token de sessão
 - [RxJS] - na criação de observadores de conexão
 - [React Icons] - iconização do projeto
+- [Less] - para estilização CSS
 
 Todas as tecnologias citadas são gratuitas e de fácil acesso.
 
