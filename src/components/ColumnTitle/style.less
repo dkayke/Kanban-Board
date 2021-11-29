@@ -1,0 +1,40 @@
+.card-title {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 0.5rem;
+  background: var(--color-secundary);
+  align-items: center;
+
+  .title,
+  .count {
+    display: flex;
+    align-items: center;
+    height: 30px;
+    padding: 5px 10px;
+    color: #ffffff;
+
+    h1,
+    p {
+        font-size: 1.2em !important;
+      font-weight: 500;
+    }
+}
+
+.title {
+    background: var(--color-primary);
+    width: 75%;
+    position: relative;
+    border-radius: 0.5rem;
+    justify-content: flex-start;
+}
+
+.title-without-count {
+    width: 100%;
+}
+
+.count {
+    border-radius: 0.5rem;
+    width: 25%;
+    justify-content: center;
+  }
+}
